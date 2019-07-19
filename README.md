@@ -1,5 +1,5 @@
 # My First Git Project
-## This is my first git project
+###### This is my first git project
 
 ### Install Instructions:
 1. Install this.
